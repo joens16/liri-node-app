@@ -83,7 +83,7 @@ switch (userInput) {
                     break;
                 }
                 case "movie-this": {
-                    movie(dataArr[1]);
+                    filmName(dataArr[1]);
                     break;
                 }
             }
