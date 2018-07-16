@@ -4,7 +4,7 @@ LIRI is similar to iPhone's SIRI, Google, or Cortana. LIRI is a Language Recogni
 The parameters are as follows:
 "my-tweets", "spotify-this-song", "movie-this", and "do-what-it-says"
 
-Technologies Used:
+Tech Used:
 NodeJS
 JavaScript
 Spotify API
